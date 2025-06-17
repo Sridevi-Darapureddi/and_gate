@@ -4,10 +4,7 @@ module ans(
 <br>
 input a,b,
 <br>
-
 output y
-
-
 );
 <br>
 
